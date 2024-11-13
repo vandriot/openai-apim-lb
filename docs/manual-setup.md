@@ -42,7 +42,7 @@ This document outlines the steps to manually set up smart load balancing for Ope
     ],
     ```
 - Go to your API Management instance in the Azure Portal.
-- Under `API`, click `+ Add API` and select `OpenAI`.
+- Under `API`, click `+ Add API` and select `OpenAPI`.
 - Load your `inference.json` file and click `Create`.
 - Note: Set the API suffix appropriately if using the Azure OpenAI SDK.
 
